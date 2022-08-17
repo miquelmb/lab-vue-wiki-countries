@@ -40,7 +40,7 @@ export default {
   components: { Spinner },
   data() {
     return {
-      // definir un valor de dato estilo null para poder recibir la info del API!
+      // definir un valor de dato estilo null para poder recibir la info del API
       countries: null,
     };
   },

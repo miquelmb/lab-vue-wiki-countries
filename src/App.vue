@@ -1,8 +1,10 @@
 <template>
+
   <div className="app">
     <NavBar />
     <router-view />
   </div>
+  
 </template>
 
 <script>

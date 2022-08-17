@@ -1,5 +1,5 @@
 <template>
-  <!-- Using individual data properties to store data from api -->
+  <!-- Using individual data properties to store data from api. -->
   <!-- <div>
     <img
       v-bind:src="`https://flagcdn.com/w320/${alpha2Code.toLowerCase()}.png`"
@@ -193,6 +193,4 @@ export default {
 
     //     return {name, capital, alpha3Code, area, borders, alpha2Code, countryInfo, countryData, getCountryByAlphaCode, countryCode};
     // }
-  
-
 </script>
